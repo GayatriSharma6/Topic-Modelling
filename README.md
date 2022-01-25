@@ -92,7 +92,6 @@ The above plot shows the variation of topics with respect to time.
 > Look at the Bertopic notebook for interactive visualization [Notebook](https://www.kaggle.com/ritikjain00/topic-modelling-of-climate-disasters/notebook)
 
 ### 7) Extras
-- All the notebook of the model are in **model-training** folder
-- All the notebook for cleaning data are in **data-cleaning** folder
-- The notebook for extracting data is in **data-extraction** folder
+- All the notebook of the model are in **Model Training** folder
+- All the notebook for cleaning data are in **Data cleaning** folder
 
