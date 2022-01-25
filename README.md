@@ -94,4 +94,4 @@ The above plot shows the variation of topics with respect to time.
 ### 7) Extras
 - All the notebook of the model are in **Model Training** folder
 - All the notebook for cleaning data are in **Data cleaning** folder
-
+- **EDA** stands for exploratory data analysis, it was considered as a step towards daTA visualisation without data cleaning. 
