@@ -83,7 +83,7 @@ Clustering the documents that share same topics
 ![topics_cluster_visualisation](https://user-images.githubusercontent.com/69076815/148549051-15800994-ae7d-4997-8ae4-4bcc7d5ad749.png)
 
 The topic cluster visualisation shows use the cluster of topics. The clustering is very better compared to LDA and NNMF model
-![topics_chart](https://user-images.githubusercontent.com/69076815/148549095-c038f3c4-9405-4bca-93a7-87c8b1ea0580.png)
+![topics_chart](![newplot](https://user-images.githubusercontent.com/71884045/150922153-799bf9f4-eb77-4609-ab13-40209662fe5d.png))
 
 As we can see the 12 most discussed topics from the data.
 ![Screenshot (37)](https://user-images.githubusercontent.com/69076815/148549299-51b8091a-1f93-495c-a5ea-192cc24e9137.png)
